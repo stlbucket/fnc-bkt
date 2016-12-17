@@ -1,0 +1,15 @@
+{
+  "name": "function-bucket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec.js"
+  },
+  "keywords": [],
+  "author": "Kevin Burkett",
+  "license": "ISC",
+  "directories": {
+    "example": "example"
+  },
+  "description": "a convenient place to keep things you need quickly and often"
+}
